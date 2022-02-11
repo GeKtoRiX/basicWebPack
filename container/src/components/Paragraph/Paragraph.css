@@ -1,0 +1,13 @@
+.Paragraph {
+    display: flex;
+    justify-content: center;
+    margin-top: -1px;
+    background-color: gray;
+    padding: 40px 0;
+}
+
+.Paragraph > p{
+    text-align: center;
+    font-size: 30px;
+    color: antiquewhite;
+}

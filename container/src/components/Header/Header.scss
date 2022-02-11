@@ -1,0 +1,23 @@
+$color-gray: #333;
+
+body {
+    margin: 0;
+}
+
+.Header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: $color-gray;
+    padding: 40px 0;
+
+    h1 {
+        font-size: 40px;
+        color: gold;
+    }
+}
+
+img{
+    display: inline-block;
+    width: 300px;
+}
